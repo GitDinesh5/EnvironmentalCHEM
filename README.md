@@ -1,1 +1,1 @@
-# EnvironmentalCHEM
+# EnvironmentalChemistry
